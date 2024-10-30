@@ -1,0 +1,3 @@
+infi.systray
+PIL
+requests
